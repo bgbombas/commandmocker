@@ -1,4 +1,4 @@
-#commandmocker
+# commandmocker
 
 [![Build Status](https://secure.travis-ci.org/tsuru/commandmocker.png?branch=master)](http://travis-ci.org/tsuru/commandmocker)
 
